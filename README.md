@@ -1,5 +1,4 @@
-# Como criar um PULL REQUEST no Github? :zap:
-:zap:
+# :zap: Como criar um PULL REQUEST no Github? 
 ## 1º Passo)
 > ###  "Fork" a página com a qual você quer contribuir, ou até mesmo usar para algum projeto seu. Para isso, entre na página em que você quer e clique em "Fork". Aguarde um instante enquanto o processo de __"forking"__ é criado.
 > 
@@ -27,4 +26,5 @@ https://www.youtube.com/watch?v=E8MPe6tCMo8<br/>
 https://blog.da2k.com.br/2015/02/08/aprenda-markdown/s<br/> 
 
 Tutorial de Git - Criando um Pull Request no github:<br/>
-https://www.youtube.com/watch?v=nT5o3jWrGCM&t=370s
+https://www.youtube.com/watch?v=nT5o3jWrGCM&t=370s<br/>
+https://www.webfx.com/tools/emoji-cheat-sheet/
