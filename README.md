@@ -27,3 +27,6 @@ https://docs.microsoft.com/pt-br/contribute/how-to-write-use-markdown
 https://www.youtube.com/watch?v=E8MPe6tCMo8
 
 https://blog.da2k.com.br/2015/02/08/aprenda-markdown/s
+
+Tutorial de Git - Criando um Pull Request no github:
+https://www.youtube.com/watch?v=nT5o3jWrGCM&t=370s
