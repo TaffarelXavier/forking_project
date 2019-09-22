@@ -22,9 +22,23 @@ git clone https://github.com/TaffarelXavier/nodeconfbr.git
 ## REFERÊNCIAS
 
 https://docs.microsoft.com/pt-br/contribute/how-to-write-use-markdown<br/>
+
 https://www.youtube.com/watch?v=E8MPe6tCMo8<br/> 
+
 https://blog.da2k.com.br/2015/02/08/aprenda-markdown/s<br/> 
 
 Tutorial de Git - Criando um Pull Request no github:<br/>
+
 https://www.youtube.com/watch?v=nT5o3jWrGCM&t=370s<br/>
+
 https://www.webfx.com/tools/emoji-cheat-sheet/
+<br/>
+Git - guia prático
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
+<br/>
+
+Book:<br/>
+https://git-scm.com/book/pt-br/v2<br/>
+
+Pense como (a) Git:<br/>
+http://think-like-a-git.net/
