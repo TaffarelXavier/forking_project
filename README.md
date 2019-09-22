@@ -7,4 +7,15 @@
 
 ## 3º Passo)
 > Você deve clonar o fork que está no seu projeto, não, do projeto
-**oficial**
+__oficial__.
+
+```csharp
+// Hello1.cs
+public class Hello1
+{
+    public static void Main()
+    {
+        System.Console.WriteLine("Hello, World!");
+    }
+}
+```
